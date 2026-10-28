@@ -1,0 +1,9 @@
+{
+  "name": "Voltio Electronics",
+  "short_name": "Voltio",
+  "start_url": "/panel",
+  "display": "standalone",
+  "background_color": "#070816",
+  "theme_color": "#070816",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
